@@ -1,4 +1,4 @@
-# Falcon Linux Bash Installation Script
+# This repository is deprecated and is read-only. Please use https://github.com/crowdstrike/falcon-scripts for updates and changes going forward.
 
 Bash script to install Falcon Sensor through the Falcon APIs on a Linux endpoint.
 
